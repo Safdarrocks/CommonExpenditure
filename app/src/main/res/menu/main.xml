@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/totalIcon"
+        android:icon="@drawable/ic_rupee_trimed"
+        app:showAsAction="always"
+        android:title="total"/>
+
+    <item
+        android:title="Refresh"
+        android:id="@+id/refresh_button"/>
+
+    <item android:title="See Other User"
+        android:id="@+id/see_other_user">
+        <menu>
+            <item
+                android:id="@+id/syed_safdar_ali"
+                android:icon="@drawable/ic_default_user"
+                android:title="Syed Safdar Ali" />
+            <item
+                android:id="@+id/syed_mohd_lareb"
+                android:icon="@drawable/ic_default_user"
+                android:title="Syed Mohd Laraib" />
+            <item
+                android:id="@+id/shahnawaz_khan"
+                android:icon="@drawable/ic_default_user"
+                android:title="Shanu Bhai" />
+            <item
+                android:id="@+id/zainul_mirza"
+                android:icon="@drawable/ic_default_user"
+                android:title="Zainul Mirza" />
+        </menu>
+    </item>
+    <item
+        android:title="Sign out"
+        android:id="@+id/sign_out_menu"/>
+    <item
+        android:id="@+id/reset"
+        android:title="Reset"/>
+</menu>

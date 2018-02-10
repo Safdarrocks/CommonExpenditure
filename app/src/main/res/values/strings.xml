@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CommonExpenditure</string>
+    <string name="send_button_label">Send</string>
+    <string-array name="users_list">
+        <item>Safdar</item>
+        <item>Laraib</item>
+        <item>Shanu Bhai</item>
+        <item>Zainul</item>
+    </string-array>
+    <string-array name="items_list">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Snacks</item>
+        <item>Dinner</item>
+        <item>Electricity Bill</item>
+        <item>Wifi Bill</item>
+        <item>Room rent</item>
+        <item>Vegetables</item>
+        <item>Roti and Vegi</item>
+        <item>Roti</item>
+        <item>Cold Drink</item>
+        <item>Food</item>
+        <item>Miscellaneous</item>
+        <item>Gift</item>
+        <item>Water</item>
+        <item>Milk</item>
+        <item>Juice</item>
+        <item>Eggs</item>
+    </string-array>
+</resources>

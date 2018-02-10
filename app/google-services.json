@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477844424494",
+    "firebase_url": "https://commonexpenditure-27000.firebaseio.com",
+    "project_id": "commonexpenditure-27000",
+    "storage_bucket": "commonexpenditure-27000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477844424494:android:67217a63098d0ed0",
+        "android_client_info": {
+          "package_name": "com.example.mohammadali.commonexpenditure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477844424494-al9hm4ceiguli6bo5cg0ofnmbc14b229.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohammadali.commonexpenditure",
+            "certificate_hash": "5ea5e40b6e04ee39e5b0f754123dc289855bbba1"
+          }
+        },
+        {
+          "client_id": "477844424494-s0995l6mj60h3q41otste4ig2us36noo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpOX7c_nLtg4cBG83r4MZHksc5m8vOpps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477844424494-s0995l6mj60h3q41otste4ig2us36noo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
